@@ -22,6 +22,6 @@ Algorithm Sorting Visualizer: https://github.com/MrGmo/sortingVisualizer
 
 Storybook: https://github.com/MrGmo/storyBook
 
-Todo list app: https://github.com/MrGmo/todoListApp
+Todo list: https://github.com/MrGmo/todoListApp
 
 Yelp clone: https://github.com/MrGmo/Yelp-Clone
