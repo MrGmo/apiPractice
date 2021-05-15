@@ -14,7 +14,7 @@ I probably should have created more slick front ends to go along with my API req
 
 Lessons Learned:
   1. Destructuring objects from API requests
-  2. Fetches and Async Await
+  2. Fetches and async await
 
 Check out some other projects I've built:
 
